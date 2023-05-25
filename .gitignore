@@ -5,6 +5,8 @@ kaggle.json
 # C extensions
 *.so
 
+#Raw data (we don't want 10GB)
+raw/
 # Distribution / packaging
 .Python
 env/
