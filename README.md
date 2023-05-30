@@ -1,9 +1,20 @@
-sky-defender
+SkyDefender: Advanced Object Detection for Military Aircrafts
 ==============================
+### Overview
+SkyDefender is an impressive computer vision project developed as part of our Advanced Programming in Artificial Intelligence course. It serves as a comprehensive exploration of the field, allowing us to delve deep into various aspects of computer vision and gain valuable insights. With SkyDefender, we aimed to accomplish the following key objectives:
 
-A short description of the project.
+- **Data Analysis Libraries:** SkyDefender provided us with a unique opportunity to enhance our skills in data manipulation, with a specific focus on utilizing popular libraries like pandas. We honed our abilities in handling datasets by performing crucial tasks such as:
+    - Removing null values from the dataset
+    - Understanding the dataset we have
+    - Value-type conversion
+    - Data split in a balanced way (for train and test purposes)
 
-The project can be executed localy or in   <a href="https://colab.research.google.com/github/marcgj/sky-defender/blob/main/notebooks/SkyDefender.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- **Data Representation:** SkyDefender empowered us to represent our dataset in a highly accurate and insightful manner. We extensively explored different techniques to visualize and analyze the data, enabling us to gain a deeper understanding of how to train our models effectively and identify areas for improvement.
+
+- **A Marvelous Solution:** SkyDefender boasts meticulously trained deep learning models that have been fine-tuned to deliver exceptional performance. This ensures that our object detection capabilities remain robust and reliable even in the face of challenging environments, including low-light conditions, adverse weather, and complex backgrounds.
+
+
+The project can be executed localy or in <a href="https://colab.research.google.com/github/marcgj/sky-defender/blob/main/notebooks/SkyDefender.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"></a>
 
 Project Organization
 ------------
