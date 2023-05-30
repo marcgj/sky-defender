@@ -11,10 +11,13 @@ SkyDefender is an impressive computer vision project developed as part of our Ad
 
 - **Data Representation:** SkyDefender empowered us to represent our dataset in a highly accurate and insightful manner. We extensively explored different techniques to visualize and analyze the data, enabling us to gain a deeper understanding of how to train our models effectively and identify areas for improvement.
 
-- **A Marvelous Solution:** SkyDefender boasts meticulously trained deep learning models that have been fine-tuned to deliver exceptional performance. This ensures that our object detection capabilities remain robust and reliable even in the face of challenging environments, including low-light conditions, adverse weather, and complex backgrounds.
-
 
 The project can be executed localy or in <a href="https://colab.research.google.com/github/marcgj/sky-defender/blob/main/notebooks/SkyDefender.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"></a>
+
+Developers
+-------------
+- Alexandru Cristian Stoia - [@aleex0309](https://github.com/aleex0309)
+- Marc Gaspà Joval - [@marcgj](https://github.com/marcgj) 
 
 Project Organization
 ------------
