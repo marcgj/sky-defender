@@ -3,6 +3,8 @@ sky-defender
 
 A short description of the project.
 
+The project can be executed localy or in   <a href="https://colab.research.google.com/github/marcgj/sky-defender/blob/main/notebooks/SkyDefender.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+
 Project Organization
 ------------
 
