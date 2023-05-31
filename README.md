@@ -1,7 +1,7 @@
 SkyDefender: Advanced Object Detection for Military Aircrafts
 ==============================
 <div align="center">
-  <img src="(https://drive.google.com/uc?export=view&id=1BNugIf49xiVrvJg5rf8nIrNswSg0-PC-)" alt="SkyDefender Logo">
+  <img src="https://drive.google.com/uc?export=view&id=1BNugIf49xiVrvJg5rf8nIrNswSg0-PC-" alt="SkyDefender Logo">
 </div>
 
 ### Overview
