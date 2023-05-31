@@ -1,5 +1,9 @@
 SkyDefender: Advanced Object Detection for Military Aircrafts
 ==============================
+<div align="center">
+  <img src="(https://drive.google.com/uc?export=view&id=1BNugIf49xiVrvJg5rf8nIrNswSg0-PC-)" alt="SkyDefender Logo">
+</div>
+
 ### Overview
 SkyDefender is an impressive computer vision project developed as part of our Advanced Programming in Artificial Intelligence course. It serves as a comprehensive exploration of the field, allowing us to delve deep into various aspects of computer vision and gain valuable insights. With SkyDefender, we aimed to accomplish the following key objectives:
 
