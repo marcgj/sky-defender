@@ -18,6 +18,9 @@ SkyDefender is an impressive computer vision project developed as part of our Ad
 
 The project can be executed localy or in <a href="https://colab.research.google.com/github/marcgj/sky-defender/blob/main/notebooks/SkyDefender.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab"></a>
 
+> [!CAUTION]
+> We had an error splitting the data, resulting in a missleading result of our model. The model has better performance than it shows due to not splitting correctly images and tags from the dataset.
+
 Developers
 -------------
 - Alexandru Cristian Stoia - [@aleex0309](https://github.com/aleex0309)
